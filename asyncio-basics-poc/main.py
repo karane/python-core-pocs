@@ -14,6 +14,7 @@ def load_demo(filename):
 DEMOS = [
     ("1. Basic Coroutine",          "basic_coroutine.py"),
     ("2. Sequential Execution",     "sequential_execution.py"),
+    ("3. Gather Concurrent",     "gather_concurrent.py"),
 ]
 
 async def main():
