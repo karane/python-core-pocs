@@ -17,6 +17,7 @@ DEMOS = [
     ("3. Gather Concurrent",     "gather_concurrent.py"),
     ("4. Create Task",     "create_task.py"),
     ("5. Task Naming",     "task_naming.py"),
+    ("6. Timeouts",     "timeouts.py"),
 ]
 
 async def main():
