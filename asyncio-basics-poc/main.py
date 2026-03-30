@@ -18,6 +18,7 @@ DEMOS = [
     ("4. Create Task",     "create_task.py"),
     ("5. Task Naming",     "task_naming.py"),
     ("6. Timeouts",     "timeouts.py"),
+    ("7. Error Handling",     "error_handling.py"),
 ]
 
 async def main():
