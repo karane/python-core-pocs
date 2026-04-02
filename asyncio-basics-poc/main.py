@@ -20,6 +20,7 @@ DEMOS = [
     ("6. Timeouts",     "timeouts.py"),
     ("7. Error Handling",     "error_handling.py"),
     ("8. Cancellation",     "cancellation.py"),
+    ("9. Wait",     "wait.py"),
 ]
 
 async def main():
