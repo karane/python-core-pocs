@@ -12,15 +12,16 @@ def load_demo(filename):
 
 
 DEMOS = [
-    ("1. Basic Coroutine",          "basic_coroutine.py"),
-    ("2. Sequential Execution",     "sequential_execution.py"),
-    ("3. Gather Concurrent",     "gather_concurrent.py"),
-    ("4. Create Task",     "create_task.py"),
-    ("5. Task Naming",     "task_naming.py"),
-    ("6. Timeouts",     "timeouts.py"),
-    ("7. Error Handling",     "error_handling.py"),
-    ("8. Cancellation",     "cancellation.py"),
-    ("9. Wait",     "wait.py"),
+    (" 1. Basic Coroutine",          "basic_coroutine.py"),
+    (" 2. Sequential Execution",     "sequential_execution.py"),
+    (" 3. Gather Concurrent",     "gather_concurrent.py"),
+    (" 4. Create Task",     "create_task.py"),
+    (" 5. Task Naming",     "task_naming.py"),
+    (" 6. Timeouts",     "timeouts.py"),
+    (" 7. Error Handling",     "error_handling.py"),
+    (" 8. Cancellation",     "cancellation.py"),
+    (" 9. Wait",     "wait.py"),
+    ("10. As Completed",     "as_completed.py"),
 ]
 
 async def main():
